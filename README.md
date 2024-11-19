@@ -2,4 +2,4 @@
 
 ## Requirements
 
-- Flutter 3.24.4 (disponible para FVM)
+- Flutter 3.24.4 (FVM disponible)
